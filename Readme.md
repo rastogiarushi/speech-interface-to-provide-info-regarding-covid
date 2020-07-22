@@ -24,12 +24,3 @@ Dependencies:
 4. "dialogflow-fulfillment": "^0.5.0",
 5. "firebase-admin": "^5.13.1",
 6. "firebase-functions": "^2.0.2"
-
-How to compile:
-1. Open the SampleScene with Unity.
-2. Click on file -> Build and Run
-3. Create a new folder “Build” inside the project folder. 
-4. Place the 2 certificates from assets inside the data directory of build folder.
-
-How to run:
-After building on Unity, click on the application icon inside the folder to run the project and interact with the agent.
